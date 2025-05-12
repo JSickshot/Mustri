@@ -19,3 +19,6 @@ with pd.ExcelWriter(salida, engine='openpyxl') as writer:
             print(f"Error con {archivo}: {e}")
 
 print("todo en orden")
+
+
+#Julio Burgoin
